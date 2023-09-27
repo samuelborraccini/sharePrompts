@@ -11,3 +11,11 @@
     <li>Moongose</li>
     <li>Mongo Atlas</li>
 </ul>
+
+<h2>Como ejecutar?</h2>
+
+<ul>
+    <li>Abrir terminal dentro del proyecto</li>
+    <li>ejecutar: npm i</li>
+    <li>ejecutar: npm start</li>
+</ul>
